@@ -1,4 +1,4 @@
-# 319
+# GROUP-3G
 Some big companies have really great number of interns and it becomes hard to track them. 
 It is possible to do some operations using HR softwares but there is not a software to follow 
 the process and operations between the company and school of interns. This is a general 
